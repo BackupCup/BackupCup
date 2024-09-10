@@ -1,11 +1,13 @@
 <h1 align="center">Hi 👋, I'm BackupCup</h1>
 <h3 align="center">Pixel artist, Minecraft modder, dumbass, Plushifying everything that moves.</h3>
 
-- 🔭 I’m currently working on [Hexed](https://github.com/BackupCup/hexed)
+- 🔭 I’m currently working on **remaking** [Hexed](https://github.com/BackupCup/hexed)
 
-- 🌱 I’m currently learning **Java, Kotlin**
+- 🌱 I’m currently learning **Java, Kotlin, C++ and Assembler**
 
-- ⚡ Fun fact **Minecraft's Doors use Double tall Grass logic**
+- 🕒 Waiting for [Lodestone](https://github.com/LodestarMC/Lodestone/tree/1.21.1-fabric) and [ARRP](https://github.com/Devan-Kerman/ARRP) to update to 1.21
+
+- ⚡ Fun fact **You can halt a PC with 4 lines of Assembler code**
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=backupcup&theme=dark" alt="backupcup" />
 <img src="https://github-readme-stats.vercel.app/api?username=backupcup&show_icons=true&theme=dark&locale=en" alt="backupcup" />
