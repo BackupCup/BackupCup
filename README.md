@@ -9,7 +9,6 @@
 
 - ⚡ Fun fact **You can halt a PC with 4 lines of Assembler code**
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=backupcup&theme=dark" alt="backupcup" />
 <img src="https://github-readme-stats.vercel.app/api?username=backupcup&show_icons=true&theme=dark&locale=en" alt="backupcup" />
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=backupcup&show_icons=true&theme=dark&locale=en&layout=compact" alt="backupcup" />
 
