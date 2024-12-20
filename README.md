@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Java, Kotlin, C++ and Assembler**
 
-- 🕒 Waiting for [Lodestone](https://github.com/LodestarMC/Lodestone/tree/1.21.1-fabric) and [ARRP](https://github.com/Devan-Kerman/ARRP) to update to 1.21
+- 🕒 Waiting for [ARRP](https://github.com/Devan-Kerman/ARRP) to update to 1.21
 
 - ⚡ Fun fact **You can halt a PC with 4 lines of Assembler code**
 
